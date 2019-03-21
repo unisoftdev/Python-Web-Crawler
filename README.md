@@ -1,7 +1,7 @@
 ### Python Web Crawler 
 A free version of a web crawler written in Python 3 with Beautiful Soup which collects links, and email addresses. For non-technical people, the offer is a premium version with GUI, many more functionalities like filters, and whatsoever you will want. The premium version doesn't collect only links/emails.
 
-### The speed of automation processess
+### The speed of automation processes
 I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have discovered more than 1300 domain names in 5 minutes. With the same speed, it could be 748.800 in two days and above 1 million in three days.
 ![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/after5minutes.png)
 ![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/command_line.png)
