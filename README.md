@@ -2,8 +2,9 @@
 A free version of a web crawler written in Python 3 with Beautiful Soup which collects links, and email addresses. For non-technical people, the offer is a premium version with GUI, many more functionalities like filters, and whatsoever you will want.
 
 ### Change the configuration file:
- assets --> config.json
+ assets --> config.json --> websites
  1. Add website urls which you want to crawl, where you want to collect links or addresses from.
+ Change the urls in this file: https://github.com/unisoftdev/Web-Crawler-Software-in-Python/blob/master/assets/config.json
 
 ### Dependencies: 
 1. Python 3, the crawler has been tested on Python 3.7 but it will work alson on lower versions like 3.5, 3.6, and 3.x in general.
