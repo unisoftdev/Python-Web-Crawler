@@ -148,4 +148,5 @@ for sub_page in collected_pages:
         print('exceptation')    
 
 
-    
+    # This open source code serves as an example of a python web crawler made from a scratch with BeautifulSoup and Requests libraries. 
+    # Enjoy your new python web scraping experience.
