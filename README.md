@@ -23,6 +23,6 @@ https://www.unisoftdev.tech
 
 ### Important Disclaimer:
 
- 1. The software is provided as it is without any waranty or responsibility from the side of the author. If it will cause any damages or in some countries illegal scraping then it's only your problem.
+ 1. The software is provided as it is without any waranty or responsibility from the side of the author. If it will cause any damages, you'll be kidnapped by aliens (or whatever else you do or don't think that can really happen) then it's not the responsibility of the author. Think twice before you use it.
 
- 2. The software was released under GNU/GPL licence so you can feel very free to do almost whatever you want but the author released it only for educational purposes, nothing else. This doesn't mean that you are not free to crawl, scrap, and extract data (if the law of your country does allow it) from websites, it only means that the author doesn't say you that you should/ought do it, the author of the software doesn't say anything.
+ 2. It's only for educational purposes. Any illegal activity is only on your own responsibility (in some countries can be illegal to scrap some kinds of data) so it's only your problem, I didn't say that you should use the software. The software was released under GNU/GPL licence so you can feel very free to do almost whatever you want but the author released it only for educational purposes, nothing else. This doesn't mean that you are not free to crawl, scrap, and extract data (if the law of your country does allow it) from websites, it only means that the author doesn't say you should/ought/may do it, the author of the software doesn't say almost anything except the mention that this software is released for educational purposes.
