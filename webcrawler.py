@@ -67,7 +67,7 @@ def robots_txt():
                     rob_txt.append(iline)
                 # loop
                 for line in rob_txt:
-                    if b'Disallow:' in line: # bycode vs string?
+                    if b'Disallow:' in line: # bytecode or string?
                         line = str(line, 'utf-8', 'ignore') #changing the format, unicode isn't really uni   
                         robotstxt_disallowed.append(line.split(': ')[1].split(' ')[0]) 
                     elif b'Allow:' in line:
