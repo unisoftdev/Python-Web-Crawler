@@ -3,7 +3,7 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
 
 ### Change the configuration file:
  assets --> config.json
- 1. Add website url which you want to crawl, where you want to collect links or addresses from.
+ 1. Add website urls which you want to crawl, where you want to collect links or addresses from.
 
 ### Dependencies: 
 1. Python 3, the crawler has been tested on Python 3.7 but it will work alson on lower versions like 3.5, 3.6, and 3.x in general.
