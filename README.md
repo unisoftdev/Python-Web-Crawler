@@ -14,7 +14,7 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
 CSV files, it creates two files, one file with links and another one with email addresses.
 
 ### Speed
-I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have scrapped more than 1300 links in 5 minutes. With the same pattern, it might be 748.800 in two days and above 1 million in three days.
+I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have scrapped more than 1300 links in 5 minutes. With the same speed, it might be 748.800 in two days and above 1 million in three days.
 
 ### For a premium version with GUI and many more functionalities (also on demand):
 https://www.unisoftdev.tech
