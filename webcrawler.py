@@ -68,10 +68,10 @@ def robots_txt():
                 # loop
                 for line in rob_txt:
                     if b'Disallow:' in line: # bytecode or string?
-                        line = str(line, 'utf-8', 'ignore') #changing the format, unicode isn't really uni   
+                        line = str(line) #changing the format, unicode isn't really uni   
                         robotstxt_disallowed.append(line.split(': ')[1].split(' ')[0]) 
                     elif b'Allow:' in line:
-                        line = str(line, 'utf-8', 'ignore') #changing the format, unicode isn't really uni   
+                        line = str(line) #changing the format, unicode isn't really uni   
                         robotstxt_allowed.append(line.split(': ')[1].split(' ')[0]) 
                         # I filled it out full of variables but didn't use this variables from the list (robotstxt_allowed), it's a junk code left that you can get bored.
         else:
