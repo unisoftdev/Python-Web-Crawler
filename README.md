@@ -21,7 +21,7 @@ I didn't perform any proper benchmarks, but on one of my laptops with a very poo
 ### For a premium version with GUI and many more functionalities (also on demand):
 https://www.unisoftdev.tech
 
-### Important Disclaimer:
+### My important disclaimer:
 
  1. The software is provided as it is without any waranty or responsibility from the side of the author. If it will cause any damages, you'll be kidnapped by aliens (or whatever else you do or don't think that can really happen) then it's not the responsibility of the author. Think twice before you use it.
 
