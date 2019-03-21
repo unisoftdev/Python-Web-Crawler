@@ -17,6 +17,7 @@ CSV files, it creates two files, one file with links and another one with email 
 
 ### Speed
 I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have scrapped more than 1300 links in 5 minutes. With the same speed, it could be 748.800 in two days and above 1 million in three days.
+![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/Screenshot%20from%202019-03-21%2017-35-44.png)
 
 ### For a premium version with GUI and many more functionalities (also on demand):
 https://www.unisoftdev.tech
