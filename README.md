@@ -6,8 +6,10 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
  1. Add website url which you want to crawl, where you want to collect links or addresses from.
 
 ### Dependencies: 
-1. (pip if it's in a virtual environment or outside:) pip3 install requests json csv bs4
-2. clone the crawler:  
+1. Python 3, the crawler has been tested on Python 3.7 but it will work alson on lower versions like 3.5, 3.6, and 3.x in general.
+2. (pip if it's in a virtual environment or outside:) pip3 install requests json csv bs4
+3. Clone the web crawler: # git clone https://github.com/unisoftdev/Web-Crawler-Software-in-Python.git
+
 ### Formats
 CSV files, it creates two files, one file with links and another one with email addresses.
 
