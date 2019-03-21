@@ -124,7 +124,7 @@ for sub_page in collected_pages:
             email_address = email_address.text
             print(str(email_address)) # If you use a command line then you can watch it at a real time.
             if not email_address in all_email_addresses:
-                # To write on a SSD/HDD/SHDD or wherever else on a disk.
+                # To write on a SSD/HDD/SHDD or wherever else can be a solid disk.
                 f.writerow([email_address, sub_page]) # a csv file which you find in assets
                 all_email_addresses.append(email_address) 
         # Some basic filters those are dependent of the particular HTML makeup of a website:
