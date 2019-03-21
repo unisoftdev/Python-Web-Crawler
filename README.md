@@ -1,6 +1,12 @@
 ### Python Web Crawler 
 A free version of a web crawler written in Python 3 with Beautiful Soup which collects links, and email addresses. For non-technical people, the offer is a premium version with GUI, many more functionalities like filters, and whatsoever you will want.
 
+### Speed
+I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have scrapped more than 1300 links in 5 minutes. With the same speed, it could be 748.800 in two days and above 1 million in three days.
+![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/after5minutes.png)
+![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/command_line.png)
+![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/visual_studio.png)
+
 ### Change the configuration file:
  assets --> config.json --> websites
  1. Add website urls which you want to crawl, where you want to collect links or addresses from.
@@ -14,12 +20,6 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
 
 ### Formats
 CSV files, it creates two files, one file with links and another one with email addresses.
-
-### Speed
-I didn't perform any proper benchmarks, but on one of my laptops with a very poor internet speed of ~7Mb/sec (should be 20 but it's not), I have scrapped more than 1300 links in 5 minutes. With the same speed, it could be 748.800 in two days and above 1 million in three days.
-![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/Screenshot%20from%202019-03-21%2017-37-37.png)
-![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/Screenshot%20from%202019-03-21%2017-35-44.png)
-![alt text](https://raw.githubusercontent.com/unisoftdev/Python-Web-Crawler/master/assets/visual_studio.png)
 
 ### For a premium version with GUI and many more functionalities (also on demand):
 https://www.unisoftdev.tech
