@@ -1,4 +1,4 @@
-# Does it must be an (open source) free web crawler (bot) or do you want a premium?
+# Do you want a free web crawler (bot) or do you want a premium (with a graphic user interface and more functionalities)?
 # For a GUI, better performance, more functions, and easiness to use... Check out: www.unisoftdev.tech
 
 '''
