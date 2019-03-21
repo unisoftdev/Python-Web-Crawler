@@ -16,3 +16,5 @@ CSV files, it creates two files, one file with links and another one with email 
 ### Speed
 I didn't perform any proper benchmarks, but on my laptop, I have scrapped more than 1300 links in 5 minutes. It might be 1 million in two days.
 
+### For a premium version with GUI and many more functionalities (also on demand):
+https://www.unisoftdev.tech
