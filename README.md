@@ -8,7 +8,7 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
  2. Blacklist: delete Reddit and any site which you wanna crawl. The bot will not go on the domains if the keywords from the blacklist will match the domain names. For example, there's banned GitHub, Reddit, YouTube, etc. 
 
 ### Dependencies: 
-1. Python 3, the crawler has been tested on Python 3.7 but it will work alson on lower versions like 3.5, 3.6, and 3.x in general.
+1. Python 3, the crawler has been tested on Python 3.7 but it ought to work also on lower versions like 3.5, 3.6, and 3.x in general.
 2. (pip if it's in a virtual environment or outside:) pip3 install requests json csv bs4
 3. Clone the web crawler: git clone https://github.com/unisoftdev/Python-Web-Crawler.git
 
