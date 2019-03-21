@@ -4,7 +4,7 @@ A free version of a web crawler written in Python 3 with Beautiful Soup which co
 ### Change the configuration file:
  assets --> config.json --> websites
  1. Add website urls which you want to crawl, where you want to collect links or addresses from.
- Change the urls in this file: https://github.com/unisoftdev/Web-Crawler-Software-in-Python/blob/master/assets/config.json
+ Change the urls in this file: https://github.com/unisoftdev/Python-Web-Crawler/blob/master/assets/config.json
  2. Blacklist: delete Reddit and any site which you wanna crawl. The bot will not go on the domains if the keywords from the blacklist will match the domain names. For example, there's banned GitHub, Reddit, YouTube, etc. 
 
 ### Dependencies: 
